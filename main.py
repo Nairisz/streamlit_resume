@@ -1,6 +1,8 @@
 import streamlit as st
 
 st.title("Your Name's Resume")
+name = st.text_input("What's your name?", "Your Name")
+
 st.header("Contact Information")
 st.write("Email: your.email@example.com")
 st.write("Phone: (123) 456-7890")
