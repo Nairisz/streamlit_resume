@@ -24,7 +24,7 @@ with col2:
     st.write("**LinkedIn:** [linkedin.com/in/norizzaty-norsupardi](https://linkedin.com/in/norizzaty-norsupardi)")
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Education")
@@ -48,7 +48,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Work Experience")
@@ -77,7 +77,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Achievements")
@@ -90,7 +90,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Skills")
@@ -102,7 +102,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Projects")
@@ -150,7 +150,7 @@ with st.expander("Year 3 Projects"):
     """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("Activities")
@@ -161,7 +161,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-<hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
+<hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
 st.header("References")
