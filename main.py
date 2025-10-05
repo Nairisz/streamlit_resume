@@ -106,47 +106,48 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.header("Projects")
-st.markdown("""
-### Year 1
-##### 1. Pet Grooming Service 
-- Developing a booking system for pet grooming services using Python.  
 
----
+with st.expander("Year 1 Projects"):
+    st.markdown("""
+    ##### 1. Pet Grooming Service  
+    - Developed a booking system for pet grooming services using Python.   
+    """)
 
-### Year 2
-##### 1. Student Supervision Management System
-- Creating an application for student management (tracking class, attendance, and performance) and database for it.  
+with st.expander("Year 2 Projects"):
+    st.markdown("""
+    ##### 1. Student Supervision Management System
+    - Creating an application for student management (tracking class, attendance, and performance) and database for it.  
 
-##### 2. Library Management System     
-- Developing a library management system with authentication, borrowing, and returning features and inventory updates using Java.  
+    ##### 2. Library Management System     
+    - Developing a library management system with authentication, borrowing, and returning features and inventory updates using Java.  
 
-##### 3. Bus Schedule App      
-- Designing a bus schedule app with real-time updates and reminder using Flutter and Dart.  
+    ##### 3. Bus Schedule App      
+    - Designing a bus schedule app with real-time updates and reminder using Flutter and Dart.  
 
-##### 4. Smart Crosswalk   
-- Creating an IoT project for smart crosswalk system with sensors to detect pedestrian and traffic light control.  
+    ##### 4. Smart Crosswalk   
+    - Creating an IoT project for smart crosswalk system with sensors to detect pedestrian and traffic light control.             
+    """)
 
----
+with st.expander("Year 3 Projects"):
+    st.markdown("""
+    ##### 1. VendiMed  
+    - Developing a vending machine prototype that dispenses medications while integrated with an app for booking and scheduled pickup.  
 
-### Year 3
-##### 1. VendiMed  
-- Developing a vending machine prototype that dispenses medications while integrated with an app for booking and scheduled pickup.  
+    ##### 2. The Healthcare Disease Prediction for Diabetes  
+    - Creating a healthcare disease prediction system focusing on diabetes using Fuzzy Logic with several combinations of SVM, RF, and LSTM.  
 
-##### 2. The Healthcare Disease Prediction for Diabetes  
-- Creating a healthcare disease prediction system focusing on diabetes using Fuzzy Logic with several combinations of SVM, RF, and LSTM.  
+    ##### 3. Regression For Flood Forecasting: Case Study in Gong Kedak, Terengganu  
+    - Building a flood forecasting system focusing on Gong Kedak, Terengganu using regression analysis.  
 
-##### 3. Regression For Flood Forecasting: Case Study in Gong Kedak, Terengganu  
-- Building a flood forecasting system focusing on Gong Kedak, Terengganu using regression analysis.  
+    ##### 4. Analysis Movie Rating  
+    - Analyzing movie ratings using Hadoop and MapReduce to find patterns and trends.  
 
-##### 4. Analysis Movie Rating  
-- Analyzing movie ratings using Hadoop and MapReduce to find patterns and trends.  
+    ##### 5. FBMKLCI Stock Price Prediction using LSTM  
+    - Predicting stock prices using LSTM neural networks and finding the best tuning parameters.  
 
-##### 5. FBMKLCI Stock Price Prediction using LSTM  
-- Predicting stock prices using LSTM neural networks and finding the best tuning parameters.  
-
-##### 6. Predicting the Risk of Heart Disease using Multiple Machine Learning Algorithms  
-- Developing a heart disease risk prediction model using several ML algorithms and comparing accuracy results.  
-""")
+    ##### 6. Predicting the Risk of Heart Disease using Multiple Machine Learning Algorithms  
+    - Developing a heart disease risk prediction model using several ML algorithms and comparing accuracy results.  
+    """)
 
 st.markdown("""
 <hr style="border:1.8px solid #0b83b3; margin: 15px 0;">
