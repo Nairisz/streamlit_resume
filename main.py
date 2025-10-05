@@ -1,16 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-page_bg = """
-<style>
-[data-testid="stAppViewContainer"] {
-    background-color: #645799;
-}
-</style>
-"""
-st.markdown(page_bg, unsafe_allow_html=True)
-
-
 st.title("Norizzaty's Resume")
 
 col1, col2 = st.columns([1, 3])
