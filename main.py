@@ -77,6 +77,8 @@ st.markdown("""
 - Won 1st place in Traiblazer Cup Competition @ FSDK (2025).
 - Won Best Business Model in Trailblazer Competition @ FSDK (2025).
 - Achieved Dean's List for 3 semesters.
+- Participate in National Cloudhunt Competition (2025).
+- Received appreciation "Attention to Details" in National Cloudhunt Competition (2025).
 """)
 
 st.markdown("""
