@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Norizzaty's Resume")
+st.title("Norizzaty Norsupardi's Resume")
 
 col1, col2 = st.columns([1, 3])
 with col1:
@@ -12,6 +12,11 @@ with col2:
     st.write("**Email:** norizzaty.norsupard@gmail.com")
     st.write("**Phone:** (60) 19-223 8570")
     st.write("**LinkedIn:** [linkedin.com/in/norizzaty-norsupardi](https://linkedin.com/in/norizzaty-norsupardi)")
+
+st.markdown("""
+Motivated IT student majoring in Artificial Intelligence with a burning passion to learn and progress through practical experience.  
+I have a background in multimedia and software development and enjoy working on video editing, UI/UX design, and research projects involving AI, IoT, and system development.
+""")
 
 st.markdown("""
 <hr style="border:1.8px solid #282829; margin: 15px 0;">
@@ -87,10 +92,12 @@ st.markdown("""
 
 st.header("Skills")
 st.markdown("""
-- Video Editing
-- Customer Service
-- Digital Illustration
-- UI/UX Design
+- Video Editing - Adobe After Effect, Final Cut Pro
+- Customer Service - Tealive
+- Digital Illustration - Adobe Photoshop, SAI Paint Tool
+- UI/UX Design - Figma, Flutter Flow
+- Intermediate in Python
+- Fundemental in Cloud Computing
 """)
 
 st.markdown("""
