@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Norizzaty Norsupardi's Resume")
-
 col1, col2 = st.columns([1, 3])
 with col1:
     st.image("https://github.com/Nairisz/streamlit_resume/raw/main/muka%20saya.jpg", width=160)
