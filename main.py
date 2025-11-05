@@ -14,7 +14,7 @@ with col2:
     st.write("**LinkedIn:** [linkedin.com/in/norizzaty-norsupardi](https://linkedin.com/in/norizzaty-norsupardi)")
 
 st.markdown("""
-Motivated IT student majoring in Artificial Intelligence with a burning passion to learn and progress through practical experience.  
+Motivated IT student majoring in Artificial Intelligence with a burning passion to learn and progress through practical experience. 
 I have a background in multimedia and software development and enjoy working on video editing, UI/UX design, and research projects involving AI, IoT, and system development.
 """)
 
