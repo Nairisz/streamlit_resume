@@ -8,7 +8,7 @@ with col1:
 with col2:
     st.markdown("### Norizzaty Binti Norsupardi")
     st.write("**Location:** Klang, Selangor")
-    st.write("**Email:** norizzaty.norsupard@gmail.com")
+    st.write("**Email:** norizzaty.work@gmail.com")
     st.write("**Phone:** (60) 19-223 8570")
     st.write("**LinkedIn:** [linkedin.com/in/norizzaty-norsupardi](https://linkedin.com/in/norizzaty-norsupardi)")
 
