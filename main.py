@@ -38,7 +38,7 @@ st.markdown("""
             
 **High School**     
 *Sekolah Menengah Kebangsaan Jalan Kebun*   
-*2014 - 2015*   
+*2013 - 2015*   
 """)
 
 st.markdown("""
