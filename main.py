@@ -26,13 +26,15 @@ st.header("Education")
 st.markdown("""    
 **Bachelor of Information Technology (Hons) (AI track)**       
 *Universiti Malaysia Kelantan*   
-*2022 - Current*   
-
+*2022 - Current*    
+*Current CGPA: 3.50*
+            
 ---
 
 **Diploma in Multimedia Creative Animation**       
 *Kolej Vokasional Kuala Krai*   
 *2016 - 2019*   
+*CGPA: 3.76*   
             
 ---
             
