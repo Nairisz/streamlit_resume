@@ -13,8 +13,9 @@ with col2:
     st.write("**LinkedIn:** [linkedin.com/in/norizzaty-norsupardi](https://linkedin.com/in/norizzaty-norsupardi)")
 
 st.markdown("""
-Motivated IT student majoring in Artificial Intelligence with a burning passion to learn and progress through practical experience. 
-I have a background in multimedia and software development and enjoy working on video editing, UI/UX design, and research projects involving AI, IoT, and system development.
+Fresh graduate in Information Technology, specializing in Artificial Intelligence, with practical experience in software development, system development, and IT operations. 
+Experienced in developing applications and academic projects involving AI, IoT, and interactive digital systems, as well as supporting web development and IT asset management activities during internship training.
+Adaptable, detail-oriented, and eager to continuously develop technical and professional skills.
 """)
 
 st.markdown("""
@@ -147,6 +148,18 @@ with st.expander("Year 3 Projects"):
 
     ##### 6. Predicting the Risk of Heart Disease using Multiple Machine Learning Algorithms  
     - Developing a heart disease risk prediction model using several ML algorithms and comparing accuracy results.  
+    """)
+
+with st.expander ("Year 4 Projects"):
+    st.markdown("""
+    ##### 1. An NLP-Based Conversational For Sentiment Analysis and Writing Pattern Analysis
+    - Built a conversational journaling application using sentiment analysis, lexicon-based emotion detection, and K-Means clustering to uncover emotional trends and writing patterns.
+                
+    ##### 2. Timetable Exam Scheduling using Particle Swarm Optimization (PSO)
+    - Implemented Particle Swarm Optimization (PSO) with penalty-based fitness evaluation and repair mechanisms for university exam timetable optimization.
+                
+    ##### 3. Final Year Project: Gamification Adaptive Learning for Improving Student Reading Skills
+    - Designed and developed a gamified adaptive learning system to enhance reading skills among primary school students through personalized learning paths, interactive quizzes, and achievement-based progression.
     """)
 
 st.markdown("""
