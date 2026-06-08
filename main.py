@@ -105,7 +105,7 @@ st.markdown("""
 <hr style="border:1.8px solid #282829; margin: 15px 0;">
 """, unsafe_allow_html=True)
 
-st.header("Projects")
+st.header("Past Projects")
 
 with st.expander("Year 1 Projects"):
     st.markdown("""
