@@ -51,19 +51,10 @@ st.markdown("""
 st.header("Work Experience")
 
 st.markdown("""
-**Internship**  
+**IT Intern**  
 *Infrasel Sdn. Bhd.*    
 *Feb 2026 - Current*
-- Assisted in workstation setup and user onboarding by configuring Outlook accounts, printer access, device naming, and user credentials.
-
-- Maintained IT asset inventory records by collecting, verifying, and documenting hardware information, including device specifications and asset details.
-
-- Performed asset tagging and device tracking to support inventory management and equipment allocation processes.
-
-- Utilized Microsoft Excel functions to organize, validate, and analyze IT asset data.
-
-- Supported web development learning and activities using Laravel and PHP.
-
+- Supported IT operations through workstation setup, user onboarding, IT asset management, inventory tracking, and web development activities using Laravel.
 
 ---             
             
