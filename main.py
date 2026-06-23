@@ -124,7 +124,7 @@ with st.expander("Year 1 Projects"):
 with st.expander("Year 2 Projects"):
     st.markdown("""
     ##### 1. Student Supervision Management System
-    - Creating an application for student management (tracking class, attendance, and performance) and database for it.  
+    - Creating a mockup for student management (tracking class, attendance, and performance) using Figma and database for it.  
 
     ##### 2. Library Management System     
     - Developing a library management system with authentication, borrowing, and returning features and inventory updates using Java.  
